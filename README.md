@@ -29,11 +29,7 @@ python weather_forecast.py
 8. The script will make an API request to OpenWeatherMap and display the temperature, humidity, pressure, and weather description for the specified city.
 
 # EXAMPLE OUTPUT
-------------Noida-------------
-Temperature: 37.31
-Humidity: 17
-Pressure: 1001
-Weather Report: clear sky
+![image](https://github.com/anoushkamishra2803/Weather-Forecasting-Tool-using-API/assets/89337719/a3bc6260-6e0c-4066-948b-9663f59e4f44)
 
 ## Troubleshooting
 If you encounter an error in the HTTP request, ensure that you have entered a valid API key and that you have an active internet connection.
